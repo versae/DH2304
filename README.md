@@ -10,11 +10,11 @@ Data, the Humanist's New Best Friend
 </h4>
 </div>
 
+**Meets**: Winter 2015, Tuesdays 4:30pm-6:00pm, Thurdays 4:30pm-6:00pm<br/>
+**Room**: UC 207<br/>
 **Instructor**: Javier de la Rosa<br/>
 **Office**: AHB 1R14<br/>
 **Office Hours**: Tuesdays 2:30pm-4:30pm<br/>
-**Meets**: Winter 2015, Tuesdays 4:30pm-6:00pm, Thurdays 4:30pm-6:00pm<br/>
-**Room**: UC 207<br/>
 
 ****
 
