@@ -6,15 +6,15 @@ Data, the Humanist's New Best Friend
 <h4>
     Western University<br/>
     Department of Modern Languages and Literatures<br/>
-    Digital Humanities – DH XXXX
+    Digital Humanities – DH 2304B
 </h4>
 </div>
 
 **Instructor**: Javier de la Rosa<br/>
-**Office**: UC 114<br/>
-**Office Hours**: Mondays 3:00pm-5:00pm<br/>
-**Meets**: Fall 2014, Mondays 12:30pm-2:30pm, Wednesdays 12:30pm-2:30pm<br/>
-**Room**: AB 148<br/>
+**Office**: AHB 1R14<br/>
+**Office Hours**: Tuesdays 2:30pm-4:30pm<br/>
+**Meets**: Winter 2015, Tuesdays 4:30pm-6:00pm, Thurdays 4:30pm-6:00pm<br/>
+**Room**: UC 207<br/>
 
 ****
 
