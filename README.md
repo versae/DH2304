@@ -25,3 +25,6 @@ In that sense, *Data, the Humanist's New Best Friend* is divided into three bloc
 - Data Mining, explaining the past and predicting the future by means of data analysis.
 - Text Analysis, producing valuable information from text sources.
 - Networks Science, understanding complex structures by analyzing the relationships among their entities.
+
+Try it!
+[![Try it](http://mybinder.org/badge.svg)](http://mybinder.org/repo/versae/dh2304)
